@@ -1,0 +1,5 @@
+ipykernel
+BeautifulSoup
+pandas
+msedge-selenium-tools 
+selenium

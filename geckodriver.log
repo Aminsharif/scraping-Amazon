@@ -1,0 +1,185 @@
+1735035990090	geckodriver	INFO	Listening on 127.0.0.1:60536
+1735036059392	geckodriver	INFO	Listening on 127.0.0.1:60545
+1735041207656	geckodriver	INFO	Listening on 127.0.0.1:63074
+1735041210730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sharif\\AppData\\Local\\Temp\\rust_mozprofilei6ahGQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735041211106	Marionette	INFO	Marionette enabled
+1735041211290	Marionette	INFO	Listening on port 63082
+WebDriver BiDi listening on ws://127.0.0.1:63075
+Read port: 63082
+1735041211631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&ref=nb_sb_noss_1, line 18823: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81SkKDxUOjL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&ref=nb_sb_noss_1, line 18768: Script terminated by timeout at:
+l@https://www.amazon.com/s?k=dell+laptop&ref=nb_sb_noss_1:18768:262
+
+1735041587636	Marionette	INFO	Stopped listening on port 63082
+Dynamically enable window occlusion 1
+1735043582593	geckodriver	INFO	Listening on 127.0.0.1:50952
+1735043585662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Sharif\\AppData\\Local\\Temp\\rust_mozprofileR2AfdM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735043586035	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735043586162	Marionette	INFO	Listening on port 50981
+Read port: 50981
+1735043586309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&ref=nb_sb_noss_1, line 19101: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81SkKDxUOjL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1735043646148	geckodriver	INFO	Listening on 127.0.0.1:51498
+1735043649191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Sharif\\AppData\\Local\\Temp\\rust_mozprofileCJp8vc"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735043649488	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735043649595	Marionette	INFO	Listening on port 51508
+Read port: 51508
+1735043649715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&ref=nb_sb_noss_1, line 18474: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81SkKDxUOjL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+35046193452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Sharif\\AppData\\Local\\Temp\\rust_mozprofile8kDG6g"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735046193893	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735046194010	Marionette	INFO	Listening on port 53668
+Read port: 53668
+1735046194156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&ref=nb_sb_noss_1, line 18761: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81SkKDxUOjL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1735049779429	geckodriver	INFO	Listening on 127.0.0.1:54218
+1735049782469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Sharif\\AppData\\Local\\Temp\\rust_mozprofileMqP8n6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735049782894	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735049783027	Marionette	INFO	Listening on port 54228
+Read port: 54228
+1735049783186	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&ref=nb_sb_noss_1, line 19117: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81SkKDxUOjL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+35049939773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Sharif\\AppData\\Local\\Temp\\rust_mozprofile4cK55p"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735049940205	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735049940340	Marionette	INFO	Listening on port 54429
+Read port: 54429
+1735049940486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&ref=nb_sb_noss_1, line 18501: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81SkKDxUOjL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+NFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Sharif\\AppData\\Local\\Temp\\rust_mozprofileo9ekCL"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735050028065	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735050028198	Marionette	INFO	Listening on port 54626
+Read port: 54626
+1735050028365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&ref=nb_sb_noss_1, line 18992: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81SkKDxUOjL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+35050313642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Sharif\\AppData\\Local\\Temp\\rust_mozprofile9g6uhz"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735050314030	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735050314159	Marionette	INFO	Listening on port 54891
+Read port: 54891
+1735050314317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&ref=nb_sb_noss_1, line 18776: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=2&ref=nb_sb_noss_1, line 18510: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=3&ref=nb_sb_noss_1, line 18475: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=4&ref=nb_sb_noss_1, line 18475: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=5&ref=nb_sb_noss_1, line 18510: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=6&ref=nb_sb_noss_1, line 18475: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=7&ref=nb_sb_noss_1, line 18510: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=8&ref=nb_sb_noss_1, line 18475: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=9&ref=nb_sb_noss_1, line 18510: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=10&ref=nb_sb_noss_1, line 18490: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=11&ref=nb_sb_noss_1, line 18510: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=12&ref=nb_sb_noss_1, line 18510: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=13&ref=nb_sb_noss_1, line 18355: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=14&ref=nb_sb_noss_1, line 18510: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=15&ref=nb_sb_noss_1, line 18475: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=16&ref=nb_sb_noss_1, line 18510: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=17&ref=nb_sb_noss_1, line 18475: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=18&ref=nb_sb_noss_1, line 18510: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=19&ref=nb_sb_noss_1, line 18475: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=dell+laptop&page=20&ref=nb_sb_noss_1, line 18398: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1735050474841	Marionette	INFO	Stopped listening on port 54891
+Dynamically enable window occlusion 1
+1735050682730	geckodriver	INFO	Listening on 127.0.0.1:55208
+1735050685760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Sharif\\AppData\\Local\\Temp\\rust_mozprofilexRUhHQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735050686070	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735050686177	Marionette	INFO	Listening on port 55219
+Read port: 55219
+1735050686314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&ref=nb_sb_noss_1, line 19652: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=2&ref=nb_sb_noss_1, line 19356: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 30688, MediaDecoderStateMachine #1] WARNING: Decoder=1c2b1858400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 30688, MediaDecoderStateMachine #1] WARNING: Decoder=1c2b1858400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:168
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=3&ref=nb_sb_noss_1, line 19356: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=4&ref=nb_sb_noss_1, line 19356: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=5&ref=nb_sb_noss_1, line 19203: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=6&ref=nb_sb_noss_1, line 19371: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=7&ref=nb_sb_noss_1, line 19203: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=8&ref=nb_sb_noss_1, line 19204: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=9&ref=nb_sb_noss_1, line 19356: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1735050744987	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=10&ref=nb_sb_noss_1, line 19203: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=11&ref=nb_sb_noss_1, line 19203: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=12&ref=nb_sb_noss_1, line 18915: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=13&ref=nb_sb_noss_1, line 19066: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=14&ref=nb_sb_noss_1, line 19203: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=15&ref=nb_sb_noss_1, line 19203: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=16&ref=nb_sb_noss_1, line 19051: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=17&ref=nb_sb_noss_1, line 19204: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=18&ref=nb_sb_noss_1, line 19356: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=19&ref=nb_sb_noss_1, line 19066: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1735050795990	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=20&ref=nb_sb_noss_1, line 19244: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1735050799020	Marionette	INFO	Stopped listening on port 55219
+JavaScript warning: https://www.amazon.com/s?k=hp+laptop&page=20&ref=nb_sb_noss_1, line 19233: Script terminated by timeout at:
+pe@https://www.amazon.com/s?k=hp+laptop&page=20&ref=nb_sb_noss_1:19233:3588
+se@https://www.amazon.com/s?k=hp+laptop&page=20&ref=nb_sb_noss_1:19233:2841
+D/<@https://www.amazon.com/s?k=hp+laptop&ref=nb_sb_noss_1&page=20:379:686
+
+Dynamically enable window occlusion 1
